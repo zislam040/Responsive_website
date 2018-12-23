@@ -31,13 +31,13 @@ html,body{
  }
 
  .carousel-caption h1{
- 	font-size: 150%;
+ 	font-size: 500%;
  	text-transform: uppercase;
  	text-shadow: 1px 1px 15px #000;  
  }
 
   .carousel-caption h3{
- 	font-size: 50%;
+ 	font-size: 200%;
  	font-weight: 500;
  	text-shadow: 1px 1px 10px #000;
  	padding-bottom: 1rem;  
@@ -122,6 +122,9 @@ html,body{
 .fa-twitter:hover{
 	color: #d5d5d5; 
 }
+.heading{
+	font-size: 300%;
+}
 
  footer{
  	background-color: #3f3f3f;
@@ -181,6 +184,9 @@ hr.light-100{
 		font-size: 1.5em;
 		padding: 1rem;
 	}
+	.heading{
+	font-size: 200%;
+}
 }
 
 
@@ -211,6 +217,9 @@ hr.light-100{
 		font-size: 1em;
 		padding: .7rem;
 	}
+	.heading{
+	font-size: 150%;
+}
 	
 	}
 	
